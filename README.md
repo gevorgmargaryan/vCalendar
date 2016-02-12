@@ -1,4 +1,4 @@
-Vcalendar
+vCalendar
 =========
 
-Simple php library for iCalendar (vCalendar) format data.
+http://gevorgmargaryan.github.io/vCalendar/
